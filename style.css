@@ -7,6 +7,7 @@
       right:30px;
       z-index:10;
       cursor:pointer;
+      margin-top: 25px;
   }
   
   
@@ -19,7 +20,6 @@
       padding-right: 9px;
       padding-bottom: 5px;
       font-family: fantasy;
-    margin-top: 25px;
       font-size: 20px;
   }
   body {
